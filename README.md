@@ -1,7 +1,7 @@
 # Indonesian-Word-Sentiment-Analysis-Using-BERT
 This project is a demonstration of using BERT for sentiment analysis on text data. It uses the Hugging Face Transformers library to fine-tune a pre-trained BERT model on a dataset of movie reviews.
 
-#Requirements
+#Requirements#
 To run this project, you will need:
 •	Pandas: A library for data manipulation and analysis. It provides data structures for efficiently storing and querying large datasets and includes functions for reading and writing data to various file formats.
 
